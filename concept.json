@@ -1,0 +1,11 @@
+{
+  "slug": "txv1-inspector",
+  "name": "TXv1 Inspector",
+  "kind": "tooling",
+  "description": "Decode the v1 envelope discriminator, config mask, addresses, instructions, and signatures.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
