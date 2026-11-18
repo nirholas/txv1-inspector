@@ -8,7 +8,7 @@ Decode the v1 envelope discriminator, config mask, addresses, instructions, and 
 
 - Source: https://github.com/nirholas/txv1-inspector
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
